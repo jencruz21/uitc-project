@@ -1,0 +1,15 @@
+body {
+  background-color: #fdf5e2;
+}
+
+@media only screen and (max-width: 750px) {
+  .decrease {
+    height: 10px;
+    width: 10px;
+  }
+}
+
+  .flex-reverse {
+    display: flex;
+    flex-direction: row-reverse;
+  }
